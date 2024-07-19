@@ -4,7 +4,7 @@
 
 
 
-<h2>🏠IT Home Projects:</h2>
+<h2>🏠 IT Home Projects:</h2>
 
 
 
