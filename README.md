@@ -8,8 +8,8 @@ https://github.com/Gary-Pineda/Presentations.git
 
 
 
-<h2>![image](https://github.com/user-attachments/assets/5d79f297-8211-4374-8a50-bab17522d2e1)
-Python Projects for Cyber Security</h2>
+<h2>👨🏽‍💻 Python Projects for Cyber Security</h2>
+
 
 
 
